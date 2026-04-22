@@ -119,13 +119,12 @@ CIFAR-10 data will be auto-downloaded to `./data/` on first run.
 .
 ├── tredence.ipynb      # Main experiment notebook
 ├── results/            # Auto-generated plots
-├    ├── loss_*.png
-├    ├── acc_*.png
-├    ├── sp_*.png
-├    ├── lr_*.png
-├    ├── tradeoff.png
-├    └── gates.png
-├── Data
+    ├── loss_*.png
+    ├── acc_*.png
+    ├── sp_*.png
+    ├── lr_*.png
+    ├── tradeoff.png
+    └── gates.png
 ```
 
 ---
